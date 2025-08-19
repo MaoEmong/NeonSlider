@@ -3,7 +3,7 @@
 
 현재 스토어 링크는 관리 중단으로 내려간 상태 (과거 스토어 배포 이력만 존재)
 
-스크린샷
+# 스크린샷
 
 타이틀
 ![타이틀이미지](GameImage/Title.jpg)
@@ -13,7 +13,7 @@
 ![인게임이미지](GameImage/GameImage.jpg)
 
 
-주요 기능
+# 주요 기능
 
 스와이프 이동: Touch 시작~종료 벡터를 정규화하여 상/하/좌/우 방향 판정 후 관성 이동
 
@@ -29,7 +29,7 @@ UI 입력 처리: IPointerDownHandler, IPointerUpHandler
 
 
 
-기술 스택
+# 기술 스택
 
 Engine: Unity 2021.3.16f1 (LTS)
 
