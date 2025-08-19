@@ -12,6 +12,7 @@
 인게임 이미지
 ![인게임이미지](GameImage/GameImage.jpg)
 
+
 주요 기능
 
 스와이프 이동: Touch 시작~종료 벡터를 정규화하여 상/하/좌/우 방향 판정 후 관성 이동
@@ -25,6 +26,7 @@
 충돌/판정: Player는 Rigidbody + BoxCollider, 타일/오브젝트는 BoxCollider (isTrigger)
 
 UI 입력 처리: IPointerDownHandler, IPointerUpHandler
+
 
 
 기술 스택
